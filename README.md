@@ -32,8 +32,12 @@ This code implements a text classification pipeline for the early detection of s
    ```
    python text_classification_pipeline.py
    ```
+   or
+   ```
+   python text_classification_stopword.py
+   ```
 
-4. The script will perform the following tasks:
+5. The script will perform the following tasks:
 
    - Data preprocessing: Extracting text from XML files and preparing the data for training and validation.
    - Model training: Training SVM with TF-IDF and DistilBERT models using the training data.
@@ -41,7 +45,7 @@ This code implements a text classification pipeline for the early detection of s
    - Comparison: Comparing the performance of SVM with TF-IDF and DistilBERT models.
    - Predictions: Making predictions on the test data using both models and writing the predictions to a file.
 
-5. After execution, the script will generate output files containing evaluation metrics and predictions.
+6. After execution, the script will generate output files containing evaluation metrics and predictions.
 
 ## Directory Structure
 
