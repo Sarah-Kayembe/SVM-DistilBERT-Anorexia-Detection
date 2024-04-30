@@ -70,7 +70,7 @@ If you use this code or find it helpful in your research, please consider citing
   year={2024},
   month={April},
   note={GitHub repository},
-  howpublished={\url{https://github.com/yourusername/yourrepository}}
+  howpublished={\url{[https://github.com/yourusername/yourrepository](https://github.com/Sarah-Kayembe/SVM-DistilBERT-Anorexia-Detection/tree/main)}}
 }
 ```
 
