@@ -33,6 +33,8 @@ This code implements a text classification pipeline for the early detection of s
    python text_classification_pipeline.py
    ```
    or
+   If you want to run the code witht the removal of stopwords and common words in DistilBert, you can run the code below:
+   
    ```
    python text_classification_stopword.py
    ```
